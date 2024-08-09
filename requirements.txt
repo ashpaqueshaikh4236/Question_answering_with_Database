@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlalchemy
+pdfplumber
+python-docx
+transformers
+huggingface_hub
+cryptography
+tf-keras
+fpdf
